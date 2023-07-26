@@ -7,6 +7,12 @@ mtgsig1.1 algorithm 小程序
 mtgsig1.2 algorithm  小程序
 ![image](https://github.com/liuyuanjun520/Mtgsig1.1_algorithm/assets/54762364/0ae2d583-9656-470e-9a63-bf32e8b1cb97)
 
+# fingerprint algorithm 小程序
+
+# _token algorithm
+
+# mtfingerpint algorithm  H5
+
 
 # Method
   js script
