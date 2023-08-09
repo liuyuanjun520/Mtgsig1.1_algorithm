@@ -14,6 +14,8 @@ mtgsig1.2 algorithm  小程序
 # mtfingerpint algorithm  H5
 
 # 美团滑块验证 加密解密(小程序 and H5)
+ - 滑块验证
+ - 图形验证码验证
 
 # Method
   js script
