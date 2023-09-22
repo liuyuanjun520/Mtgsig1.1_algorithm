@@ -16,6 +16,7 @@ mtgsig1.2 algorithm  小程序
 # 美团滑块验证 加密解密(小程序 and H5)
  - 滑块验证
  - 图形验证码验证
+# 美团数据采集完整方案，大众点评mtgsig1.2
 
 # Method
   js script
