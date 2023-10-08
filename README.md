@@ -18,6 +18,8 @@ mtgsig1.2 algorithm  小程序
  - 图形验证码验证
 # 美团数据采集完整方案，大众点评mtgsig1.2
 
+# 美团酒店差评筛选
+
 # Method
   js script
 # Contact me
