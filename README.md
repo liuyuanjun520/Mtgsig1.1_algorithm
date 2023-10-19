@@ -20,6 +20,8 @@ mtgsig1.2 algorithm  小程序
 
 # 美团酒店差评筛选
 
+# 猫眼小程序mtgsig1.2, _token, fingerprint
+
 # Method
   js script
 # Contact me
