@@ -10,7 +10,7 @@ mtgsig1.2 algorithm  小程序
 # fingerprint algorithm 小程序
 
 # _token algorithm
-
+ 
 # mtfingerpint algorithm  H5
 
 # 美团滑块验证 加密解密(小程序 and H5)
@@ -20,7 +20,7 @@ mtgsig1.2 algorithm  小程序
 
 # 美团酒店差评筛选
 
-# 猫眼小程序mtgsig1.2, _token, fingerprint
+# 猫眼小程序mtgsig1.2, _token, fingerprint, txDeviceToken
 
 # Method
   js script
