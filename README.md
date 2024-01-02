@@ -22,6 +22,8 @@ mtgsig1.2 algorithm  小程序
 
 # 猫眼小程序mtgsig1.2, _token, fingerprint, txDeviceToken
 
+# 美团药店，店铺数据采集完整方案
+
 # Method
   js script
 # Contact me
