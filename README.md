@@ -27,4 +27,4 @@ mtgsig1.2 algorithm  小程序
 # Method
   js script
 # Contact me
-VX:janko198
+VX:janko198 
