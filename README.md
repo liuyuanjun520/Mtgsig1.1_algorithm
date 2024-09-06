@@ -1,7 +1,7 @@
 # Mtgsig1.1（2）_algorithm nodejs纯算
 mtgsig1.1 algorithm v2.0.1  H5
 
-mtgsig web h5 最新 1.2 h1.7 \ hs1.6
+mtgsig web h5 最新 1.2 h1.7 \ hs1.6  (加密解密，js纯算)
 
 ![image](https://github.com/liuyuanjun520/Mtgsig1.1_algorithm/assets/54762364/cb2cba14-475e-48e8-a4c7-20eaefe079df)
 
