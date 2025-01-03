@@ -25,7 +25,7 @@ mtgsig1.2 algorithm  小程序
 
 # 猫眼小程序mtgsig1.2, _token, fingerprint, txDeviceToken
 
-# 美团药店（超市），店铺数据采集完整方案
+# 美团药店、超市，全量抓取
 > 可大量采集
 
 # 美团门票：陕西历史博物馆 pc微信小程完整方案+代码
